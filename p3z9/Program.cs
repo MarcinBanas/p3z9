@@ -29,6 +29,7 @@ namespace p3z9
             kanal.OpublikujFilm();
             kanal.Wyswietl();
             
+            
         }
     }
 }
